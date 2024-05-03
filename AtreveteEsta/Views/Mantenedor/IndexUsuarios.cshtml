@@ -1,0 +1,35 @@
+﻿@model IEnumerable<AtreveteEsta.Models.Usuario>
+
+@{
+	ViewBag.Title = "RegistoDeUsuarios";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<div class="panel panel-primary">
+	<div class="panel-heading">
+		<h4>Lista de usuarios</h4>
+	</div>
+	<div class="panel-body">
+
+		<table class="table table-bordered">
+			<thead>
+				<tr>
+					<th>Correo</th>
+					<th>Contraseña</th>
+					<th>Tipo</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var item in Model)
+				{
+					<tr>
+						<td>@item.email</td>
+						<td>@item.Password</td>
+						<td>@item.Tipo</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</div>

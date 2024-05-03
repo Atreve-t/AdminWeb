@@ -1,0 +1,69 @@
+﻿@model IEnumerable<AtreveteEsta.Models.Garaje>
+
+@{
+	ViewBag.Title = "GarajesUso";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<br />
+<div class="panel panel-primary">
+	<div class="panel-heading">
+		<h4>Lista de Garajes Uso</h4>
+	</div>
+	<div class="panel-body">
+
+		<table class="table table-bordered">
+			<thead>
+				<tr>
+					<th>Dirección</th>
+					<th>Precio</th>
+					<th>Estado</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var item in Model)
+				{
+					if (item.Estado == "ocupado")
+					{
+						<tr>
+							<td>@item.Direccion</td>
+							<td>@item.Precio</td>
+							<td>@item.Estado</td>
+						</tr>
+					}
+				}
+			</tbody>
+		</table>
+	</div>
+	<div class="panel-heading">
+		<h4>Lista de Garajes Libre</h4>
+	</div>
+	<div class="panel-body">
+
+		<table class="table table-bordered">
+			<thead>
+				<tr>
+					<th>Dirección</th>
+					<th>Precio</th>
+					<th>Estado</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var item in Model)
+				{
+					if (item.Estado == "libre")
+					{
+						<tr>
+							<td>@item.Direccion</td>
+							<td>@item.Precio</td>
+							<td>@item.Estado</td>
+						</tr>
+					}
+				}
+			</tbody>
+		</table>
+	</div>
+</div>

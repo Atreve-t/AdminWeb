@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|c:\\users\\jazmi\\downloads\\atreveteesta\\atreveteesta\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\views\\mantenedor\\top.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\views\\mantenedor\\top.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\views\\mantenedor\\indexusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\views\\mantenedor\\indexusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\views\\mantenedor\\garajesuso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\views\\mantenedor\\garajesuso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\models\\garaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\models\\garaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\models\\dimensiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\models\\dimensiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\models\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\models\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\models\\coordenadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\models\\coordenadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\models\\periodohorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\models\\periodohorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\atreveteesta\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F20258-D63A-4679-B59B-977B57631117}|AtreveteEsta\\AtreveteEsta.csproj|solutionrelative:atreveteesta\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Top.cshtml",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Views\\Mantenedor\\Top.cshtml",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Views\\Mantenedor\\Top.cshtml",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Views\\Mantenedor\\Top.cshtml",
+              "RelativeToolTip": "AtreveteEsta\\Views\\Mantenedor\\Top.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T01:41:41.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AtreveteEsta\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T01:41:41.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coordenadas.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Coordenadas.cs",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Models\\Coordenadas.cs",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Coordenadas.cs",
+              "RelativeToolTip": "AtreveteEsta\\Models\\Coordenadas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:41:41.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexUsuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Views\\Mantenedor\\IndexUsuarios.cshtml",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Views\\Mantenedor\\IndexUsuarios.cshtml",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Views\\Mantenedor\\IndexUsuarios.cshtml",
+              "RelativeToolTip": "AtreveteEsta\\Views\\Mantenedor\\IndexUsuarios.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T01:41:41.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Usuario.cs",
+              "RelativeToolTip": "AtreveteEsta\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:41:41.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MantenedorController.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Controllers\\MantenedorController.cs",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Controllers\\MantenedorController.cs",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Controllers\\MantenedorController.cs",
+              "RelativeToolTip": "AtreveteEsta\\Controllers\\MantenedorController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAmwG4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:41:41.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Garaje.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Garaje.cs",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Models\\Garaje.cs",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Garaje.cs",
+              "RelativeToolTip": "AtreveteEsta\\Models\\Garaje.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:41:41.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GarajesUso.cshtml",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Views\\Mantenedor\\GarajesUso.cshtml",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Views\\Mantenedor\\GarajesUso.cshtml",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Views\\Mantenedor\\GarajesUso.cshtml",
+              "RelativeToolTip": "AtreveteEsta\\Views\\Mantenedor\\GarajesUso.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-05-03T01:41:41.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dimensiones.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Dimensiones.cs",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Models\\Dimensiones.cs",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Dimensiones.cs",
+              "RelativeToolTip": "AtreveteEsta\\Models\\Dimensiones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:41:41.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Horario.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Horario.cs",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Models\\Horario.cs",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\Horario.cs",
+              "RelativeToolTip": "AtreveteEsta\\Models\\Horario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:41:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeriodoHorario.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\PeriodoHorario.cs",
+              "RelativeDocumentMoniker": "AtreveteEsta\\Models\\PeriodoHorario.cs",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\Models\\PeriodoHorario.cs",
+              "RelativeToolTip": "AtreveteEsta\\Models\\PeriodoHorario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:41:41.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "AtreveteEsta\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\jazmi\\Downloads\\AtreveteEsta\\AtreveteEsta\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "AtreveteEsta\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:41:41.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+﻿@model IEnumerable<AtreveteEsta.Models.Usuario>
+
+@{
+	ViewBag.Title = "Top";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h4>TOP 20 Garajes</h4>
+    </div>
+    <div class="panel-body">
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Dirección</th>
+                    <th>Precio</th>
+                    <th>Estado</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    if (item.Tipo == "ofertante")
+                    {
+                        if (item.calificacion >= 3)
+                        {
+                            <tr>
+                                <td>@item.calificacion</td>
+                                <td>@item.email</td>
+                            </tr>
+                        }
+
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="panel-heading">
+        <h4>TOP 20 Clientes</h4>
+    </div>
+    <div class="panel-body">
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Dirección</th>
+                    <th>Precio</th>
+                    <th>Estado</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    if (item.Tipo == "cliente")
+                    {
+                        if (item.calificacion >= 3)
+                        {
+                            <tr>
+                                <td>@item.calificacion</td>
+                                <td>@item.email</td>
+                            </tr>
+                        }
+
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+
+    <div class="panel-heading">
+        <h4>TOP 20 Peores Calificaciones</h4>
+    </div>
+    <div class="panel-body">
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Email</th>
+                    
+                    <th>calificacion</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    if (item.Tipo == "cliente")
+                    {
+                        if (item.calificacion < 3)
+                        {
+                            <tr>
+                                <td>@item.email</td>
+                                <td>@item.calificacion</td>
+
+                            </tr>
+                        }
+
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
